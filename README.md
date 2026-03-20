@@ -131,6 +131,7 @@ sudo wg show
 <p align="center">
   <img src="screenshots/mobile-vpn-connected.png" width="300"/>
 </p>
+
 ---
 
 ## Project Status
