@@ -113,17 +113,24 @@ sudo wg show
 ## Screenshots
 
 ### WireGuard VPN Active
-![WireGuard](screenshots/wireguard-active.png)
+<p align="center">
+  <img src="screenshots/wireguard-active.png" width="600"/>
+</p>
 
 ### Firewall Configuration
-![UFW](screenshots/ufw-firewall-rules.png)
+<p align="center">
+  <img src="screenshots/ufw-firewall-rules.png" width="600"/>
+</p>
 
 ### Fail2Ban Protection
-![Fail2Ban](screenshots/fail2ban-status.png)
+<p align="center">
+  <img src="screenshots/fail2ban-status.png" width="600"/>
+</p>
 
 ### Mobile VPN Connection
-![Mobile](screenshots/mobile-vpn-connected.png)
-
+<p align="center">
+  <img src="screenshots/mobile-vpn-connected.jpg" width="300"/>
+</p>
 ---
 
 ## Project Status
