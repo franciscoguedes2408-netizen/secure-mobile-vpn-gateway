@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the deployment of a secure mobile VPN gateway using WireGuard on Ubuntu Server.
+This project demonstrates the design and deployment of a secure mobile VPN gateway using WireGuard on Ubuntu Server.
 
 The objective of the lab is to simulate a secure remote access infrastructure with firewall hardening and protection against brute-force attacks.
 
@@ -45,7 +45,7 @@ graph TD
 • Firewall configured with **default deny policy**  
 • SSH brute-force protection using Fail2Ban  
 • Reduced host visibility by restricting ICMP echo responses  
-• Minimal exposed attack surface  
+• Reduced attack surface through controlled service exposure  
 
 ---
 
@@ -68,7 +68,7 @@ roadmap/ → Future improvements and expansion plans
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/secure-mobile-vpn-gateway.git
+git clone https://github.com/franciscoguedes2408-netizen/secure-mobile-vpn-gateway.git
 ```
 
 Install required packages:
@@ -151,6 +151,7 @@ Planned next steps include expanding the infrastructure to simulate a production
 - Honeypot deployment for attack observation
 - Centralized log monitoring with Wazuh
 - Network segmentation using pfSense firewall
+- Secure remote access service model (VPN-as-a-service concept)
 
 ---
 ## Notes
@@ -164,7 +165,7 @@ Future improvements will address this through cloud deployment and optimized rou
 ---
 ## Author
 
-Cybersecurity student building hands-on security labs to develop practical skills in:
+Cybersecurity student focused on building hands-on security labs to develop practical skills in:
 
 - Network security
 - Infrastructure hardening
