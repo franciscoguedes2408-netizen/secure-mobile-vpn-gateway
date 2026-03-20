@@ -140,7 +140,14 @@ Planned next steps include expanding the infrastructure to simulate a production
 - Network segmentation using pfSense firewall
 
 ---
+## Notes
 
+During testing, full tunnel routing (0.0.0.0/0) introduced performance limitations due to running in a local virtualized environment.
+
+This reflects real-world constraints when deploying VPN gateways without dedicated infrastructure.
+
+Future improvements will address this through cloud deployment and optimized routing.
+---
 ## Author
 
 Cybersecurity student building hands-on security labs to develop practical skills in:
