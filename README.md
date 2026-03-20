@@ -112,12 +112,17 @@ sudo wg show
 
 ## Screenshots
 
-This section will include evidence of the lab environment running:
+### WireGuard VPN Active
+![WireGuard](screenshots/wireguard-active.png)
 
-- WireGuard tunnel status
-- UFW firewall rules
-- Fail2Ban protection
-- Mobile VPN connection
+### Firewall Configuration
+![UFW](screenshots/ufw-firewall-rules.png)
+
+### Fail2Ban Protection
+![Fail2Ban](screenshots/fail2ban-status.png)
+
+### Mobile VPN Connection
+![Mobile](screenshots/mobile-vpn-connected.png)
 
 ---
 
