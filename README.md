@@ -129,7 +129,7 @@ sudo wg show
 
 ### Mobile VPN Connection
 <p align="center">
-  <img src="screenshots/mobile-vpn-connected.jpg" width="300"/>
+  <img src="screenshots/mobile-vpn-connected.png" width="300"/>
 </p>
 ---
 
